@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/DavidSchargel/docker-development-youtube-series.git
-    targetRevision: HEAD
+    targetRevision: argo
     path: argo/example-app
     directory:
       recurse: true
